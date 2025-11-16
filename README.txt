@@ -1,4 +1,4 @@
-#Projet-Reversi_game
+# Projet-Reversi_game
 
 Reversi AI Tournament
 Description
