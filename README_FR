@@ -1,0 +1,29 @@
+# Reversi AI Tournament
+
+## Description
+
+Ce projet consiste en un "simulateur de jeu Reversi (Othello)" en Python, avec plusieurs implémentations d’agents intelligents capables de s’affronter dans un tournoi automatisé. Le projet inclut :
+
+- Une implémentation classique du jeu avec un "bitboard" (`BitboardReversi`) pour des performances optimisées.
+- Une version avec un plateau `numpy` pour une manipulation plus pédagogique.
+- Des agents jouant selon différentes stratégies :
+  - "Agent aléatoire" (Random)
+  - "Monte Carlo Tree Search (MCTS)", y compris FlatMCTS et MCTS temps réel avec exploration/exploitation
+  - Bandit multi-bras et stratégies gloutonnes
+- Un "tournoi Round-Robin" permettant de mesurer et comparer les performances des agents.
+- Gestion du **temps par coup** et traitement des exceptions pour éviter les dépassements de délai.
+- Logging détaillé des parties dans `logs/tournament.log`.
+
+## Structure du projet
+├── agents/ # Dossier contenant les agents jouant au tournoi
+├── logs/ # Logs du tournoi
+├── reversi.py # Implémentation du jeu Reversi (bitboard et numpy)
+├── tme1.py # Premières expériences d’agents aléatoires
+├── tme2.py # Fonctions de simulation et Monte Carlo
+├── tme3.py # Agent FlatMCTS et agents MCTS
+├── tme4.py # Tournoi entre agents et benchmark
+└── main.py # Lancement du tournoi
+├── tme1.ipynb          # Notebook avec consignes et tests pour TME1
+├── tme2.ipynb          # Notebook avec consignes et tests pour TME2
+├── tme3.ipynb          # Notebook avec consignes et tests pour TME3
+└── tme4.ipynb         # Notebook avec consignes et tests pour TME4
