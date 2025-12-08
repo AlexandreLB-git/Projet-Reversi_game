@@ -1,0 +1,107 @@
+Tournament Results - Groupe 5
+======================================================================
+
+Final Rankings:
+----------------------------------------------------------------------
+Rank   Agent                          Score    W     D     L    
+----------------------------------------------------------------------
+1      Agent_21310941_21311189           26.0   26    0    4
+2      Agent_21236226                    23.0   23    0    7
+3      Agent_21302177_21308171           22.0   22    0    8
+4      Agent_21508420                    10.0   10    0   20
+5      Agent_21313581_21301573            8.0    8    0   22
+6      Agent_21308231                     1.0    1    0   29
+
+
+Detailed Match Results:
+----------------------------------------------------------------------
+Agent_21302177_21308171 vs Agent_21308231 (Round 1, a1_black): 10
+Agent_21302177_21308171 vs Agent_21308231 (Round 2, a1_black): 42
+Agent_21302177_21308171 vs Agent_21308231 (Round 3, a1_black): 23
+Agent_21308231 vs Agent_21302177_21308171 (Round 1, a2_black): -22
+Agent_21308231 vs Agent_21302177_21308171 (Round 2, a2_black): -28
+Agent_21308231 vs Agent_21302177_21308171 (Round 3, a2_black): -18
+Agent_21302177_21308171 vs Agent_21313581_21301573 (Round 1, a1_black): 22
+Agent_21302177_21308171 vs Agent_21313581_21301573 (Round 2, a1_black): 2
+Agent_21302177_21308171 vs Agent_21313581_21301573 (Round 3, a1_black): 20
+Agent_21313581_21301573 vs Agent_21302177_21308171 (Round 1, a2_black): -16
+Agent_21313581_21301573 vs Agent_21302177_21308171 (Round 2, a2_black): -18
+Agent_21313581_21301573 vs Agent_21302177_21308171 (Round 3, a2_black): -30
+Agent_21302177_21308171 vs Agent_21508420 (Round 1, a1_black): 22
+Agent_21302177_21308171 vs Agent_21508420 (Round 2, a1_black): -10
+Agent_21302177_21308171 vs Agent_21508420 (Round 3, a1_black): 28
+Agent_21508420 vs Agent_21302177_21308171 (Round 1, a2_black): -28
+Agent_21508420 vs Agent_21302177_21308171 (Round 2, a2_black): -37
+Agent_21508420 vs Agent_21302177_21308171 (Round 3, a2_black): -41
+Agent_21302177_21308171 vs Agent_21310941_21311189 (Round 1, a1_black): 6
+Agent_21302177_21308171 vs Agent_21310941_21311189 (Round 2, a1_black): -38
+Agent_21302177_21308171 vs Agent_21310941_21311189 (Round 3, a1_black): -10
+Agent_21310941_21311189 vs Agent_21302177_21308171 (Round 1, a2_black): -10
+Agent_21310941_21311189 vs Agent_21302177_21308171 (Round 2, a2_black): 12
+Agent_21310941_21311189 vs Agent_21302177_21308171 (Round 3, a2_black): 4
+Agent_21302177_21308171 vs Agent_21236226 (Round 1, a1_black): -22
+Agent_21302177_21308171 vs Agent_21236226 (Round 2, a1_black): -34
+Agent_21302177_21308171 vs Agent_21236226 (Round 3, a1_black): -4
+Agent_21236226 vs Agent_21302177_21308171 (Round 1, a2_black): -16
+Agent_21236226 vs Agent_21302177_21308171 (Round 2, a2_black): -16
+Agent_21236226 vs Agent_21302177_21308171 (Round 3, a2_black): -26
+Agent_21308231 vs Agent_21313581_21301573 (Round 1, a1_black): -20
+Agent_21308231 vs Agent_21313581_21301573 (Round 2, a1_black): -22
+Agent_21308231 vs Agent_21313581_21301573 (Round 3, a1_black): -8
+Agent_21313581_21301573 vs Agent_21308231 (Round 1, a2_black): 14
+Agent_21313581_21301573 vs Agent_21308231 (Round 2, a2_black): 14
+Agent_21313581_21301573 vs Agent_21308231 (Round 3, a2_black): 22
+Agent_21308231 vs Agent_21508420 (Round 1, a1_black): -42
+Agent_21308231 vs Agent_21508420 (Round 2, a1_black): 16
+Agent_21308231 vs Agent_21508420 (Round 3, a1_black): -12
+Agent_21508420 vs Agent_21308231 (Round 1, a2_black): 6
+Agent_21508420 vs Agent_21308231 (Round 2, a2_black): 16
+Agent_21508420 vs Agent_21308231 (Round 3, a2_black): 10
+Agent_21308231 vs Agent_21310941_21311189 (Round 1, a1_black): -32
+Agent_21308231 vs Agent_21310941_21311189 (Round 2, a1_black): -2
+Agent_21308231 vs Agent_21310941_21311189 (Round 3, a1_black): -34
+Agent_21310941_21311189 vs Agent_21308231 (Round 1, a2_black): 44
+Agent_21310941_21311189 vs Agent_21308231 (Round 2, a2_black): 27
+Agent_21310941_21311189 vs Agent_21308231 (Round 3, a2_black): 20
+Agent_21308231 vs Agent_21236226 (Round 1, a1_black): -14
+Agent_21308231 vs Agent_21236226 (Round 2, a1_black): -26
+Agent_21308231 vs Agent_21236226 (Round 3, a1_black): -22
+Agent_21236226 vs Agent_21308231 (Round 1, a2_black): 32
+Agent_21236226 vs Agent_21308231 (Round 2, a2_black): 22
+Agent_21236226 vs Agent_21308231 (Round 3, a2_black): 16
+Agent_21313581_21301573 vs Agent_21508420 (Round 1, a1_black): 32
+Agent_21313581_21301573 vs Agent_21508420 (Round 2, a1_black): -18
+Agent_21313581_21301573 vs Agent_21508420 (Round 3, a1_black): -30
+Agent_21508420 vs Agent_21313581_21301573 (Round 1, a2_black): -8
+Agent_21508420 vs Agent_21313581_21301573 (Round 2, a2_black): 32
+Agent_21508420 vs Agent_21313581_21301573 (Round 3, a2_black): 32
+Agent_21313581_21301573 vs Agent_21310941_21311189 (Round 1, a1_black): -26
+Agent_21313581_21301573 vs Agent_21310941_21311189 (Round 2, a1_black): -36
+Agent_21313581_21301573 vs Agent_21310941_21311189 (Round 3, a1_black): -12
+Agent_21310941_21311189 vs Agent_21313581_21301573 (Round 1, a2_black): 10
+Agent_21310941_21311189 vs Agent_21313581_21301573 (Round 2, a2_black): 43
+Agent_21310941_21311189 vs Agent_21313581_21301573 (Round 3, a2_black): 34
+Agent_21313581_21301573 vs Agent_21236226 (Round 1, a1_black): -38
+Agent_21313581_21301573 vs Agent_21236226 (Round 2, a1_black): -34
+Agent_21313581_21301573 vs Agent_21236226 (Round 3, a1_black): -32
+Agent_21236226 vs Agent_21313581_21301573 (Round 1, a2_black): 34
+Agent_21236226 vs Agent_21313581_21301573 (Round 2, a2_black): 28
+Agent_21236226 vs Agent_21313581_21301573 (Round 3, a2_black): 20
+Agent_21508420 vs Agent_21310941_21311189 (Round 1, a1_black): -36
+Agent_21508420 vs Agent_21310941_21311189 (Round 2, a1_black): -38
+Agent_21508420 vs Agent_21310941_21311189 (Round 3, a1_black): -20
+Agent_21310941_21311189 vs Agent_21508420 (Round 1, a2_black): 30
+Agent_21310941_21311189 vs Agent_21508420 (Round 2, a2_black): 30
+Agent_21310941_21311189 vs Agent_21508420 (Round 3, a2_black): 10
+Agent_21508420 vs Agent_21236226 (Round 1, a1_black): -20
+Agent_21508420 vs Agent_21236226 (Round 2, a1_black): -40
+Agent_21508420 vs Agent_21236226 (Round 3, a1_black): -34
+Agent_21236226 vs Agent_21508420 (Round 1, a2_black): 32
+Agent_21236226 vs Agent_21508420 (Round 2, a2_black): 20
+Agent_21236226 vs Agent_21508420 (Round 3, a2_black): 36
+Agent_21310941_21311189 vs Agent_21236226 (Round 1, a1_black): 26
+Agent_21310941_21311189 vs Agent_21236226 (Round 2, a1_black): -30
+Agent_21310941_21311189 vs Agent_21236226 (Round 3, a1_black): 22
+Agent_21236226 vs Agent_21310941_21311189 (Round 1, a2_black): -8
+Agent_21236226 vs Agent_21310941_21311189 (Round 2, a2_black): 30
+Agent_21236226 vs Agent_21310941_21311189 (Round 3, a2_black): -16
